@@ -1,12 +1,4 @@
-### Here is what I'm working on 👋
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+# Miguel Jara - Web Developer
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Personal Projects
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... Web Development
-- 🤔 I’m looking for help with ...  JS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 0miguel.jara15@gmail.com
--->
+Hello! I'm a **Computer Science _student._** Passionate about **_Web Development_**
