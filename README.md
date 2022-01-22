@@ -5,8 +5,10 @@ Hello! I'm a **Computer Science _student._** Passionate about **_Web Development
 
 I **speak**  🇺🇸  _English_,  🇪🇸  _Spanish_ and  🇫🇷  _French_. 
 
-I'm interested in _Web Development_ topics, and I'm currently learning **_Bootstrap_** and **JavaScript_**.
+I'm interested in _Web Development_ topics, and I'm currently learning **_Bootstrap_** and **_JavaScript_**.
 
-## Lasts projects: 
-                **Pokedex:** https://acuminous-bush.000webhostapp.com/
-                **Calculator:** https://bavarian-huts.000webhostapp.com/
+## **Lasts projects:**
+
+🕹️ **Pokedex:** https://acuminous-bush.000webhostapp.com/
+
+➗ **Calculator:** https://bavarian-huts.000webhostapp.com/
