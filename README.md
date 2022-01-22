@@ -5,7 +5,7 @@ Hello! I'm a **Computer Science _student._** Passionate about **_Web Development
 
 I **speak**  🇺🇸  _English_,  🇪🇸  _Spanish_ and  🇫🇷  _French_. 
 
-I'm interested in _Web Development_ topics, and I'm currently learning **_Bootstrap_** and **_JavaScript_**.
+I'm interested in _Web Development_ topics, and I'm currently learning **_JavaScript_** and **_Git_**.
 
 ## **Lasts projects:**
 
