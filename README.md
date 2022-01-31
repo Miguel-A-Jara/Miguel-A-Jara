@@ -7,7 +7,7 @@ I **speak**  🇺🇸  _English_ &  🇪🇸  _Spanish_.
 
 I'm interested in _Web Development_ topics, and I'm currently learning **_JavaScript_** and **_Git_**.
 
-## **Lasts projects:**
+## **Latest  projects:**
 
 🕹️ **Pokedex:** https://acuminous-bush.000webhostapp.com/
 
