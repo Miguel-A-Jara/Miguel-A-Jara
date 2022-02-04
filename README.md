@@ -9,6 +9,6 @@ I'm interested in _Web Development_ topics, and I'm currently learning **_JavaSc
 
 ## **Latest  projects:**
 
-🕹️ **Pokedex:** https://acuminous-bush.000webhostapp.com/
+💻 **{Computer World:** https://bavarian-huts.000webhostapp.com/
 
-➗ **Calculator:** https://bavarian-huts.000webhostapp.com/
+🕹️ **Pokedex:** https://acuminous-bush.000webhostapp.com/
