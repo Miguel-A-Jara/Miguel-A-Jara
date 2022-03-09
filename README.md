@@ -9,6 +9,8 @@ I'm interested in _Web Development_ topics, and I'm currently learning **_JavaSc
 
 ## **Latest  projects:**
 
+➗ **React JS Calculator** https://miguel-a-jara.github.io/myReact-calculator/
+
 💻 **Computer World:** https://bavarian-huts.000webhostapp.com/
 
 🕹️ **Pokedex:** https://acuminous-bush.000webhostapp.com/
