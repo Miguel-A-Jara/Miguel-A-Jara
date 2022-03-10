@@ -3,7 +3,7 @@
 
 Hello! I'm a **Computer Science _student._** Passionate about **_Web Development_**.
 
-I **speak**  🇺🇸  _English_ &  🇪🇸  _Spanish_. 
+I **speak**  🇺🇸  _English_ &  🇪🇸  _Spanish_ fluently.
 
 I'm interested in _Web Development_ topics, and I'm currently learning **_JavaScript_** and **_Git_**.
 
