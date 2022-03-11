@@ -9,8 +9,8 @@ I'm interested in _Web Development_ topics, and I'm currently learning **_React 
 
 ## **Latest  projects:**
 
-➗ **React JS Calculator** https://miguel-a-jara.github.io/myReact-calculator/
+➗ **React JS Calculator** [Click Me!](https://miguel-a-jara.github.io/myReact-calculator/)
 
-💻 **Computer World:** https://miguel-a-jara.github.io/computer-world/
+💻 **Computer World:** [Click Me!](https://miguel-a-jara.github.io/computer-world/)
 
-🕹️ **Pokedex:** https://miguel-a-jara.github.io/PokemonAPI/
+🕹️ **Pokedex:** [Click Me!](https://miguel-a-jara.github.io/PokemonAPI/)
