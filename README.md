@@ -9,6 +9,8 @@ I'm interested in _Web Development_ topics, and I'm currently learning **_React 
 
 ## **Latest  projects:**
 
+🎞️ **React JS Gif Expert App** https://miguel-a-jara.github.io/react-gif-expert-app/
+
 ➗ **React JS Calculator** https://miguel-a-jara.github.io/myReact-calculator/
 
 💻 **Computer World:** https://miguel-a-jara.github.io/computer-world/
