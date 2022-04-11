@@ -1,4 +1,4 @@
-![Main Picture](https://github.com/Miguel-A-Jara/Miguel-A-Jara/blob/15b796d81494f4c0b0cda1722ac570e6a905aadd/profile_picture.png)
+![Main Picture](https://github.com/Miguel-A-Jara/Miguel-A-Jara/blob/3e1eb8341423cb08942b4f7f04f5f115f44028bc/profile_picture.png)
 # Miguel Jara - Web Developer
 
 Hello! I'm a **Computer Science _student._** Passionate about **_Web Development_**.
