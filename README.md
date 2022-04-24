@@ -5,9 +5,11 @@ Hello! I'm a **Computer Science _student._** Passionate about **_Web Development
 
 I **speak**  🇺🇸  _English_ &  🇪🇸  _Spanish_ fluently.
 
-I'm interested in _Web Development_ topics, and I'm currently learning **_React JS_** and **_Redux_**.
+I'm interested in _Web Development_ topics, and I'm currently learning **_React JS_**.
 
 ## **Latest  projects:**
+
+📝 **React Router & Redux Todo App** https://miguel-a-jara.github.io/react-router-todo-app/
 
 🎞️ **React JS Gif Expert App** https://miguel-a-jara.github.io/react-gif-expert-app/
 
