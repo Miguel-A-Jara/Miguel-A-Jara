@@ -11,7 +11,7 @@ I'm interested in _Web Development_ topics, and I'm currently learning **_NestJS
 
 ## **Latest  projects:**
 
-✔️ **FullStack NextJS & NestJS Task App (Under Mantainance)** https://fullstack-nextjs-typescript.vercel.app/ 
+✔️ **FullStack NextJS & NestJS Task App ** https://fullstack-nextjs-typescript.vercel.app/ 
 
 📝 **React Router & Redux Todo App** https://miguel-a-jara.github.io/react-router-todo-app/
 
