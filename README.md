@@ -2,6 +2,6 @@
 
 # Miguel Jara - Web Developer
 
-Hello! I'm a **Developer**. Passionate about the **Web**.
+Hello, hola, ça va ! I'm a **Frontend & Mobile Developer**.
 
 🇺🇸 🇪🇸 🇫🇷
