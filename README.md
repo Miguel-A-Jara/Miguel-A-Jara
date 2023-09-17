@@ -30,44 +30,28 @@
 
 <hr />
 
-<!-- NOTE: Programming Languages -->
+<!-- NOTE: Programming Stuff -->
+<h3 align='center'>Frontend technologies</h3>
 <p align='center'>
-  <b>What I use in my day to day</b>
+  <!-- NOTE: Frontend -->
+  <img src='https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs' />
+
+  <br />
+  
+  <!-- NOTE: Styling -->
+  <img src='https://skillicons.dev/icons?i=mui,tailwind' />
 </p>
+
+<h3 align='center'>Mobile technologies</h3>
 <p align='center'>
-
-  <!-- NOTE: JavaScript -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <!-- NOTE: TypeScript -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
-  <!-- NOTE: React -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- NOTE: Dart -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-          
-  <!-- NOTE: Flutter -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-          
-  <!-- NOTE: Docker -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />  
+  <!-- NOTE: Mobile Development -->
+  <img src='https://skillicons.dev/icons?i=dart,flutter,androidstudio' />
 </p>
 
 <!-- NOTE: Setup -->
+<h3 align='center'>My setup</h3>
 <p align='center'>
-
-  <!-- NOTE: Visual Studio Code -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-  <!-- NOTE: Linux -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
-  <!-- NOTE: Git -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <!-- NOTE: GitHub -->
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <!-- NOTE: Setup -->
+  <img src='https://skillicons.dev/icons?i=vscode,linux,docker,git,github' />
 </p>
 
