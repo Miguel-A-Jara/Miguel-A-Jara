@@ -55,16 +55,14 @@
   <img src='https://skillicons.dev/icons?i=vscode,linux,docker,git,github' />
 </p>
 
-<details align="center">
-  <summary>General Stats 👀 </summary>
-  <p align='center'>
-    <!-- NOTE: General Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel-A-Jara&show_icons=true&bg_color=002E4E&hide_border=true&include_all_commits=true&text_color=ffffff" />
-    </a>
-    <!-- NOTE: Most Used Languages -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-A-Jara&layout=compact&bg_color=002E4E&hide_border=true&text_color=ffffff" />
-    </a>
-  </p>
-</details>  
+<h3 align="center">General Stats 👀</h3>
+<p align='center'>
+  <!-- NOTE: General Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel-A-Jara&show_icons=true&bg_color=002E4E&hide_border=true&include_all_commits=true&text_color=ffffff" />
+  </a>
+  <!-- NOTE: Most Used Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-A-Jara&layout=compact&bg_color=002E4E&hide_border=true&text_color=ffffff" />
+  </a>
+</p>
