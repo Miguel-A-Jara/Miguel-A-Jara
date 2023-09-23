@@ -59,7 +59,7 @@
 <p align='center'>
   <!-- NOTE: General Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel-A-Jara&show_icons=true&bg_color=002E4E&hide_border=true&include_all_commits=true&text_color=ffffff" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel-A-Jara&show_icons=true&bg_color=002E4E&hide_border=true&include_all_commits=true&text_color=ffffff&hide_rank=true" />
   </a>
   <!-- NOTE: Most Used Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
