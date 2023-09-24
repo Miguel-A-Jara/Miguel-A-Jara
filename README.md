@@ -22,6 +22,12 @@
   <a href="https://www.linkedin.com/in/miguel-a-jara/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
+  <!-- NOTE: indeed -->
+  <a href="https://profile.indeed.com/p/miguelj-zzl8nvz">
+    <img src="https://img.shields.io/badge/indeed-003A9B.svg?&style=for-the-badge&logo=indeed&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
   <!-- NOTE: StackOverflow -->
   <a href="https://stackoverflow.com/users/17843903/miguel-jara">
     <img src="https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
