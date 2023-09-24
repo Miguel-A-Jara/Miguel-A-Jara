@@ -1,4 +1,4 @@
-![Main Picture](https://github.com/Miguel-A-Jara/Miguel-A-Jara/blob/main/MiguelJara-Banner.png?raw=true)
+<kbd>![Main Picture](https://github.com/Miguel-A-Jara/Miguel-A-Jara/blob/main/MiguelJara-Banner.png?raw=true)</kbd>
 
 
 
